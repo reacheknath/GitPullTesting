@@ -13,6 +13,7 @@ namespace GitHub.TestProject.Models
     public class ExternalLoginListViewModel
     {
         //testing comment
+	//second testing comment
         public string ReturnUrl { get; set; }
     }
 
